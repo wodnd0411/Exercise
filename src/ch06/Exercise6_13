@@ -1,0 +1,11 @@
+Exercise6_13
+
+Q) add메서드를 올바르게 오버로딩 한 것은?
+   long add(int a, int b) { return a + b; }
+
+a. long add(int x, int y) { return x + y; } X -> 매개 변수의 타입이나 개수 조건 성립 X
+b. long add(long x, long y) { return x + y; } O -> 메서드 이름 같고 매개 변수의 타입 다름
+c. int add(byte x, byte y) { return x + y; } O -> 메서드 이름 같고 매개 변수의 타입 다름
+d. int add(long x, int y) { return x + y; } O -> 메서드 이름 같고 매개 변수의 타입 다름
+
+A) b, c, d

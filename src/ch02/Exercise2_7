@@ -1,0 +1,14 @@
+Exercise2_7
+
+Q) 변수의 이름으로 사용 가능한 것은?
+
+a. $ystem
+b. channel#5 // # 불가능
+c. 7eleven // 처음 숫자 불가능
+d. If
+e. 자바
+f. new // 키워드(예약어) 불가능
+g. $MAX_NUM
+h. hello@com // @ 불가능
+
+A) a, d, e, g

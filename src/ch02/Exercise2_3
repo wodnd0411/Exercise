@@ -1,0 +1,7 @@
+Exercise2_3
+
+int i = 100; // 변수 i 리터럴 100 키워드 int
+
+long l = 100L; // 변수 l 리터럴 100 키워드 long
+
+final float PI = 3.14f; // 상수 PI 리터럴 3.14 키워드 final float

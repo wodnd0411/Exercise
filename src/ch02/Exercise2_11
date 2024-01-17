@@ -1,0 +1,11 @@
+Exercise2_11
+
+Q) 변수 초기화가 잘못된 것은?
+
+a. byte b = 256; // 범위 초과
+b. char c = ''; // 문자 1개 필요
+c. char answer = 'no'; // 문자 2개 안됨
+d. float f = 3.14; // 접미사 f
+e. double d = 1.4e3f;
+
+A) a, b, c, d

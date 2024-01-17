@@ -1,0 +1,12 @@
+Exercise5_1
+
+Q) 배열을 선언하거나 초기화한 것이다. 틀린 것은?
+
+a. int[] arr[]; // int[][] arr
+b. int[] arr = {1, 2, 3,}; // 마지막 , 있어도 상관없다
+c. int[] arr = new int[6]; // 길이가 6인 배열 arr
+d. int[] arr = new int[5] {1, 2, 3, 4, 5}; // 배열 초기화 시, 배열 길이 작성 X
+e. int arr[5]; // int[] arr = new int[5]
+f. int[] arr[] = new int[3][]; // int[][] arr = new int[3][] -> 가변 배열
+
+A) d, e

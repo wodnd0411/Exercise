@@ -1,0 +1,11 @@
+Exercise2_1
+
+논리형 boolean 1byte
+
+문자형 char 2byte
+
+정수형 int 4byte
+
+실수형 float 4byte
+
+실수형 double 8byte

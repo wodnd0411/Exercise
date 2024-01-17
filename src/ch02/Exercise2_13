@@ -1,0 +1,12 @@
+Exercise2_13
+
+Q) 타입과 기본값 잘못 연결된 것은?
+
+a. boolean - false
+b. char - '\u0000'
+c. float - 0.0 // 접미사 f
+d. int - 0
+e. long - 0 // 접미사 L
+f. String - "" // 기본값은 null
+
+A) c, e, f
