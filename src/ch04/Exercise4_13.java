@@ -18,10 +18,7 @@ public class Exercise4_13 {
 			ch = input.charAt(i); // 한 글자씩 ch에 담는다
 			
 			// ch가 숫자인지 판별
-			if((ch - '0') >= 0 && (ch - '0') < 10) {
-				isNumber = true;
-			}
-			else {
+			if(!(ch >= '0' && ch <= '9')) {
 				isNumber = false;
 				
 				break;
